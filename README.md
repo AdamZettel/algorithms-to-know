@@ -2,7 +2,7 @@
 a list of 100 algorithms to know
 
 ### Sorting Algorithms
-1. **Bubble Sort**
+1. **[Bubble Sort](sorting/bubble_sort.py)**
 2. **Selection Sort**
 3. **Insertion Sort**
 4. **Merge Sort**
