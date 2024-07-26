@@ -3,15 +3,15 @@ a list of 100 algorithms to know
 
 ### Sorting Algorithms
 1. **[Bubble Sort](sorting/001_bubble_sort.py)**
-2. **Selection Sort**
-3. **Insertion Sort**
-4. **Merge Sort**
-5. **Quick Sort**
-6. **Heap Sort**
-7. **Counting Sort**
-8. **Radix Sort**
-9. **Bucket Sort**
-10. **Shell Sort**
+2. **[Selection Sort](sorting/002_selection_sort.py)**
+3. **[Insertion Sort](sorting/003_insertion_sort.py)**
+4. **[Merge Sort](sorting/004_merge_sort.py)**
+5. **[Quick Sort](sorting/005_quick_sort.py)**
+6. **[Heap Sort](sorting/006_heap_sort.py)**
+7. **[Counting Sort](sorting/007_counting_sort.py)**
+8. **[Radix Sort](sorting/008_radix_sort.py)**
+9. **[Bucket Sort](sorting/009_bucket_sort.py)**
+10. **[Shell Sort](sorting/010_shell_sort.py)**
 
 ### Searching Algorithms
 11. **Linear Search**
