@@ -15,7 +15,7 @@ a list of 100 algorithms to know
 
 ### Searching Algorithms
 11. **[Linear Search](searching/011_linear_search.py)**
-12. **[Binary Search](searching/012_binary_search.py)/**
+12. **[Binary Search](searching/012_binary_search.py)**
 13. **Jump Search**
 14. **Interpolation Search**
 15. **Exponential Search**
