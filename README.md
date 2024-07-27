@@ -16,14 +16,14 @@ a list of 100 algorithms to know
 ### Searching Algorithms
 11. **Linear Search**
 12. **Binary Search**
-13. **Depth-First Search (DFS)**
-14. **Breadth-First Search (BFS)**
-15. **Jump Search**
-16. **Interpolation Search**
-17. **Exponential Search**
-18. **Ternary Search**
+13. **Jump Search**
+14. **Interpolation Search**
+15. **Exponential Search**
+16. **Ternary Search**
 
 ### Graph Algorithms
+17. **Depth-First Search (DFS)**
+18. **Breadth-First Search (BFS)**
 19. **Dijkstra's Algorithm**
 20. **Bellman-Ford Algorithm**
 21. **Floyd-Warshall Algorithm**
