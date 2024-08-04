@@ -22,15 +22,15 @@ a list of 100 algorithms to know
 16. **[Ternary Search](searching/016_ternary_search.py)**
 
 ### Graph Algorithms
-17. **Depth-First Search (DFS)**
-18. **Breadth-First Search (BFS)**
-19. **Dijkstra's Algorithm**
-20. **Bellman-Ford Algorithm**
-21. **Floyd-Warshall Algorithm**
-22. **A-star Search Algorithm**
-23. **Kruskal's Algorithm**
-24. **Prim's Algorithm**
-25. **Topological Sort**
+17. **[Depth-First Search (DFS)](graph/017_dfs.py)**
+18. **[Breadth-First Search (BFS)](graph/018_bfs.py)**
+19. **[Dijkstra's Algorithm](graph/019_dijkstra.py)**
+20. **[Bellman-Ford Algorithm](graph/020_bellman_ford.py)**
+21. **[Floyd-Warshall Algorithm](graph/021_floyd_warshall.py)**
+22. **[A-star Search Algorithm](graph/022_a_star.py)**
+23. **[Kruskal's Algorithm](graph/023_kruskal.py)**
+24. **[Prim's Algorithm](graph/024_prim.py)**
+25. **[Topological Sort](graph/topological_sort.py)**
 26. **Tarjan's Strongly Connected Components Algorithm**
 27. **Kosaraju's Algorithm**
 28. **Johnson's Algorithm**
