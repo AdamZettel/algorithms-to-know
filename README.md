@@ -27,7 +27,7 @@ a list of 100 algorithms to know
 19. **Dijkstra's Algorithm**
 20. **Bellman-Ford Algorithm**
 21. **Floyd-Warshall Algorithm**
-22. **A* Search Algorithm**
+22. **A-star Search Algorithm**
 23. **Kruskal's Algorithm**
 24. **Prim's Algorithm**
 25. **Topological Sort**
