@@ -16,10 +16,10 @@ a list of 100 algorithms to know
 ### Searching Algorithms
 11. **[Linear Search](searching/011_linear_search.py)**
 12. **[Binary Search](searching/012_binary_search.py)**
-13. **Jump Search**
-14. **Interpolation Search**
-15. **Exponential Search**
-16. **Ternary Search**
+13. **[Jump Search](searching/013_jump_search.py)**
+14. **[Interpolation Search](searching/014_interpolation_search.py)**
+15. **[Exponential Search](searching/015_exponential_search.py)**
+16. **[Ternary Search](searching/016_ternary_search.py)**
 
 ### Graph Algorithms
 17. **Depth-First Search (DFS)**
