@@ -30,13 +30,13 @@ a list of 100 algorithms to know
 22. **[A-star Search Algorithm](graph/022_a_star.py)**
 23. **[Kruskal's Algorithm](graph/023_kruskal.py)**
 24. **[Prim's Algorithm](graph/024_prim.py)**
-25. **[Topological Sort](graph/topological_sort.py)**
-26. **Tarjan's Strongly Connected Components Algorithm**
-27. **Kosaraju's Algorithm**
-28. **Johnson's Algorithm**
-29. **Edmonds-Karp Algorithm**
-30. **Ford-Fulkerson Algorithm**
-31. **Dinic's Algorithm**
+25. **[Topological Sort](graph/025_topological_sort.py)**
+26. **[Tarjan's Strongly Connected Components Algorithm](graph/026_tarjan_scc.py)**
+27. **[Kosaraju's Algorithm](graph/027_kosaraju_scc.py)**
+28. **[Johnson's Algorithm](graph/028_johnson.py)**
+29. **[Edmonds-Karp Algorithm](graph/029_edmonds_karp.py)**
+30. **[Ford-Fulkerson Algorithm](graph/030_ford_fulkerson.py)**
+31. **[Dinic's Algorithm](graph/031_dinic.py)**
 
 ### Dynamic Programming
 32. **Fibonacci Sequence**
