@@ -31,7 +31,7 @@ a list of 100 algorithms to know
 23. **[Kruskal's Algorithm](graph/023_kruskal.py)**
 24. **[Prim's Algorithm](graph/024_prim.py)**
 25. **[Topological Sort](graph/025_topological_sort.py)**
-26. **[Tarjan's Strongly Connected Components Algorithm](graph/026_tarjan_scc.py)**
+26. **[Tarjan's Algorithm](graph/026_tarjan_scc.py)**
 27. **[Kosaraju's Algorithm](graph/027_kosaraju_scc.py)**
 28. **[Johnson's Algorithm](graph/028_johnson.py)**
 29. **[Edmonds-Karp Algorithm](graph/029_edmonds_karp.py)**
