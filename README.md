@@ -48,7 +48,7 @@ a list of 100 algorithms to know
 38. **[Rod Cutting](dynamic_programming/038_rod_cutting.py)**
 39. **[Coin Change Problem](dynamic_programming/039_coin_change.py)**
 40. **[Subset Sum Problem](dynamic_programming/040_subset_sum.py)**
-41. **[Longest Palindromic Subsequence](dynamic_programming/041_largest_palindromic_subsequence.py)**
+41. **[Longest Palindromic Subsequence](dynamic_programming/041_longest_palindromic_subsequence.py)**
 42. **[Egg Dropping Problem](dynamic_programming/042_egg_dropping.py)**
 43. **[Edit Distance](dynamic_programming/043_edit_distance.py)**
 
