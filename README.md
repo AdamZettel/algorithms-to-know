@@ -39,18 +39,18 @@ a list of 100 algorithms to know
 31. **[Dinic's Algorithm](graph/031_dinic.py)**
 
 ### Dynamic Programming
-32. **Fibonacci Sequence**
-33. **Longest Common Subsequence**
-34. **Longest Increasing Subsequence**
-35. **Knapsack Problem**
-36. **0/1 Knapsack Problem**
-37. **Matrix Chain Multiplication**
-38. **Rod Cutting**
-39. **Coin Change Problem**
-40. **Subset Sum Problem**
-41. **Longest Palindromic Subsequence**
-42. **Egg Dropping Problem**
-43. **Edit Distance**
+32. **[Fibonacci Sequence](dynamic_programming/032_fibonacci_sequence.py)**
+33. **[Longest Common Subsequence](dynamic_programming/033_longest_common_subsequence.py)**
+34. **[Longest Increasing Subsequence](dynamic_programming/034_longest_increasing_subsequence.py)**
+35. **[Knapsack Problem](dynamic_programming/035_knapsack.py)**
+36. **[0/1 Knapsack Problem](dynamic_programming/036_zero_one_knapsack.py)**
+37. **[Matrix Chain Multiplication](dynamic_programming/037_matrix_chain_multiplication.py)**
+38. **[Rod Cutting](dynamic_programming/038_rod_cutting.py)**
+39. **[Coin Change Problem](dynamic_programming/039_coin_change.py)**
+40. **[Subset Sum Problem](dynamic_programming/040_subset_sum.py)**
+41. **[Longest Palindromic Subsequence](dynamic_programming/041_longest_palindromic_subsequence.py)**
+42. **[Egg Dropping Problem](dynamic_programming/042_egg_dropping.py)**
+43. **[Edit Distance](dynamic_programming/043_edit_distance.py)**
 
 ### String Algorithms
 44. **KMP Algorithm**
