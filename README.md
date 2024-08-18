@@ -75,9 +75,9 @@ a list of 100 algorithms to know
 61. **Pollard's Rho Algorithm**
 
 ### Geometric Algorithms
-62. **Convex Hull**
-63. **Graham's Scan**
-64. **Jarvis's March**
+62. **Graham Scan**
+63. **Jarvis March**
+64. **QuickHull**
 65. **Line Intersection**
 66. **Closest Pair of Points**
 67. **Rotating Calipers**
